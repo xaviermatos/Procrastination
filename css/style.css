@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: grey;
+  font-size:32px;
+  font-family: impact;
+}
+img {
+  width:360px;
+  height:100%;
+}
+.list {
+  color: darkred;
+    font-family: arial;
+/*   display: inline-block; */
+/*  float: left; */
+}
+
+h2 {
+  color: grey;
+  font-family: impact;
+}
+
+h3 {
+  color: darkred;
+  font-family: impact;
+}
